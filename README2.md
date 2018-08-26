@@ -28,6 +28,7 @@ $ pip install python-zenity
 
 项目github地址是:
 https://github.com/poulp/python-zenity
+
 https://github.com/haochuang/zenipy/
 
 后续看时间使用场景，择况更新
